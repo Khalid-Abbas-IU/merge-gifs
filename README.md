@@ -1,1 +1,1 @@
-"# merge-gifs" 
+npm package " merge-gifs "
